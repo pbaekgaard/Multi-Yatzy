@@ -14,11 +14,6 @@ While i didn't draw this program for the exam, I'm still proud of how it turned 
    b. To run the program write:
    
         a.exe || ./a.out
-#### MAKE
-
-   a. To compile and run the program simultaneously write:
-   
-        make
 
 ## Authors
 - [@pbaekgaard](https://www.github.com/pbaekgaard)
