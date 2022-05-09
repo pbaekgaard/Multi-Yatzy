@@ -1,6 +1,7 @@
 
 # Multi-Yatzy
 
+Poggers
 Multi-Yatzy was my second Exam assignment.
 
 While i didn't draw this program for the exam, I'm still proud of how it turned out!
